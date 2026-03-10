@@ -1,58 +1,28 @@
-\# Контакты
+# Контакты
 
-
-
-\## Связаться со мной
-
-
+## Связаться со мной
 
 | Способ связи | Контакт |
-
 |--------------|---------|
-
-| \*\*Telegram\*\* | \[@v5plo](https://t.me/v5plo) |
-
-| \*\*Email\*\* | \[твоя почта] |
-
-| \*\*GitHub\*\* | \[viktoryplo](https://github.com/viktoryplo) |
-
-
+| **Telegram** | [@v5plo](https://t.me/v5plo) |
+| **Email** | vic-plo@yandex.ru |
+| **GitHub** | [viktoryplo](https://github.com/viktoryplo) |
 
 ---
 
+## Социальные сети
 
-
-\## Социальные сети
-
-
-
-\- \[Telegram](https://t.me/v5plo)
-
-\- \[GitHub](https://github.com/viktoryplo)
-
-
+- [Telegram](https://t.me/v5plo)
+- [GitHub](https://github.com/viktoryplo)
 
 ---
 
-
-
-\## Для сотрудничества
-
-
+## Для сотрудничества
 
 Если у вас есть интересные проекты или предложения — пишите!  
-
 Я открыта к новым знакомствам и сотрудничеству.
-
-
 
 > Лучше всего писать в Telegram — отвечаю быстрее всего
 
 
-
----
-
-
-
-\[\*Вернуться на главную\*](index.md)
 

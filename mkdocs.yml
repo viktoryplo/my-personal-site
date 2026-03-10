@@ -6,6 +6,9 @@ site_url: https://viktoryplo.github.io/2025_2026-introduction-in-web-tech-u4125-
 theme:
   name: material
   language: ru
+  icon:
+    logo: fontawesome/solid/star
+    favicon: fontawesome/solid/star
   features:
     - navigation.tabs
     - navigation.sections
@@ -15,7 +18,7 @@ theme:
     - navigation.expand
     - content.code.copy
   palette:
-    primary: indigo
+    primary: pink
     accent: pink
 
 markdown_extensions:
@@ -25,24 +28,21 @@ markdown_extensions:
   - pymdownx.emoji:
       emoji_index: !!python/name:material.extensions.emoji.twemoji
       emoji_generator: !!python/name:material.extensions.emoji.to_svg
+  - pymdownx.highlight
+  - pymdownx.superfences
 
 plugins:
   - search
-#  - include-markdown
 
 nav:
   - Главная: index.md
   - О себе: about.md
   - Проекты: projects.md
-  - Контакты: contacts.md
   - Достижения: achievements.md
-
-markdown_extensions:
-  - admonition
-  - tables
-  - attr_list
+  - Контакты: contacts.md
 
 copyright: Copyright &copy; 2026 Виктория Плотникова
+
 extra:
   social:
     - icon: fontawesome/brands/telegram
